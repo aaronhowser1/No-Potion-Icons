@@ -1,6 +1,6 @@
 modLoader="javafml"
 loaderVersion="[40,)"
-license="Open Source"
+license="Public Domain"
 [[mods]]
 modId="nopotionicons"
 version="${file.jarVersion}"
