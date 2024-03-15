@@ -12,7 +12,7 @@
 		"sources": "https://github.com/aaronhowser1/No-Potion-Icons",
 		"issues": "https://github.com/aaronhowser1/No-Potion-Icons/issues"
 	},
-	"license": "Open Source",
+	"license": "Public Domain",
 	"icon": "assets/nopotionicons/icon.png",
 	"environment": "client",
 	"entrypoints": {
