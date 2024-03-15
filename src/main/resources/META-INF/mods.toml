@@ -5,7 +5,7 @@ license="Public Domain"
 modId="nopotionicons"
 version="${file.jarVersion}"
 displayName="No Potion Icons"
-logoFile="examplemod.png"
+logoFile="logo.png"
 authors="aaronhowser1"
 description='''
 Removes potion effect icons from the HUD
