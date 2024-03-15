@@ -6,7 +6,6 @@ import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 
-// The value here should match an entry in the META-INF/mods.toml file
 @Mod(NoPotionIcons.MODID)
 public class NoPotionIcons {
     public static final String MODID = "nopotionicons";
