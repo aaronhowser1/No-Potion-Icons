@@ -7,7 +7,7 @@ import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
 
 @Mixin(StatusEffectInstance.class)
-public class ExampleMixin {
+public class StatusEffectInstanceMixin {
     @Inject(at = @At("HEAD"), method = "shouldShowIcon", cancellable = true)
     private void init(CallbackInfoReturnable<Boolean> cir) {
         cir.setReturnValue(false);
