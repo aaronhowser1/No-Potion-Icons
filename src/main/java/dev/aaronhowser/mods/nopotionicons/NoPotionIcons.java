@@ -19,7 +19,8 @@ public class NoPotionIcons {
     @Mod.EventBusSubscriber(
             modid = MODID,
             bus = Mod.EventBusSubscriber.Bus.MOD,
-            value = Dist.CLIENT)
+            value = Dist.CLIENT
+    )
     public static class ClientModEvents {
         @SubscribeEvent
         public void onRenderGuiEvent(RenderGameOverlayEvent.PreLayer event) {
