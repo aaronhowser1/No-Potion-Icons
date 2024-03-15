@@ -1,4 +1,4 @@
-package dev.aaronhowser.nopotionicons;
+package dev.aaronhowser.mods.nopotionicons;
 
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.api.distmarker.OnlyIn;
