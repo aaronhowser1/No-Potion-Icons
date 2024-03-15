@@ -3,13 +3,13 @@
 	"id": "no-potion-icons",
 	"version": "${version}",
 	"name": "No Potion Icons",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Removes potion effect icons from the HUD",
 	"authors": [
-		"Me!"
+		"aaronhowser1"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "http://aaronhowser.dev/",
+		"sources": "https://github.com/aaronhowser1/No-Potion-Icons"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/no-potion-icons/icon.png",
