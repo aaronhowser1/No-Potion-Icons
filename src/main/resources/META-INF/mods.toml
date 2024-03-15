@@ -10,6 +10,7 @@ authors="aaronhowser1"
 description='''
 Removes potion effect icons from the HUD
 '''
+displayTest="IGNORE_ALL_VERSION"
 [[dependencies.nopotionicons]]
 modId="forge"
 mandatory=true
