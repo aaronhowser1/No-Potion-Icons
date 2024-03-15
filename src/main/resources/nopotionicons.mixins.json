@@ -1,9 +1,9 @@
 {
 	"required": true,
-	"package": "dev.aaronhowser.mods.mixin",
+	"package": "dev.aaronhowser.mods.nopotionicons.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-      "StatusEffectInstanceMixin"
+		"StatusEffectInstanceMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

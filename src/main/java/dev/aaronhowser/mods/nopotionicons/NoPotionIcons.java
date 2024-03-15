@@ -1,4 +1,4 @@
-package dev.aaronhowser.mods;
+package dev.aaronhowser.mods.nopotionicons;
 
 import net.fabricmc.api.ModInitializer;
 

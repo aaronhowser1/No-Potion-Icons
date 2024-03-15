@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "no-potion-icons",
+	"id": "nopotionicons",
 	"version": "${version}",
 	"name": "No Potion Icons",
 	"description": "Removes potion effect icons from the HUD",
@@ -13,15 +13,15 @@
 		"issues": "https://github.com/aaronhowser1/No-Potion-Icons/issues"
 	},
 	"license": "Open Source",
-	"icon": "assets/no-potion-icons/icon.png",
+	"icon": "assets/nopotionicons/icon.png",
 	"environment": "client",
 	"entrypoints": {
 		"main": [
-			"dev.aaronhowser.mods.NoPotionIcons"
+			"dev.aaronhowser.mods.nopotionicons.NoPotionIcons"
 		]
 	},
 	"mixins": [
-		"no-potion-icons.mixins.json"
+		"nopotionicons.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.15.7",
