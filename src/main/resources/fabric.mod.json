@@ -9,9 +9,10 @@
 	],
 	"contact": {
 		"homepage": "http://aaronhowser.dev/",
-		"sources": "https://github.com/aaronhowser1/No-Potion-Icons"
+		"sources": "https://github.com/aaronhowser1/No-Potion-Icons",
+		"issues": "https://github.com/aaronhowser1/No-Potion-Icons/issues"
 	},
-	"license": "CC0-1.0",
+	"license": "Open Source",
 	"icon": "assets/no-potion-icons/icon.png",
 	"environment": "client",
 	"entrypoints": {
